@@ -1,0 +1,1 @@
+<h1 align="center">Package for Merkle Tree in Go</h1>
